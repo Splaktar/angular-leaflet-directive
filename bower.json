@@ -15,8 +15,8 @@
     "leaflet": "0.7.x"
   },
   "devDependencies": {
-    "jquery": "*",
-    "bootstrap": "*",
+    "jquery": "~2.1.x",
+    "bootstrap": "~3.2.x",
     "angular-route": "1.2.x",
     "angular-animate": "1.2.x",
     "angular-mocks": "1.2.x",
